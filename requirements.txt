@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+imbalanced-learn
+xgboost
+torch
+qiskit>=1.2,<2.0
+qiskit-machine-learning>=0.8,<0.9
+qiskit-algorithms>=0.3,<0.4

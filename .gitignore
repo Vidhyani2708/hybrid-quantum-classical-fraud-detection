@@ -1,0 +1,16 @@
+# Dataset files: keep large datasets out of GitHub
+data/*.csv
+data/*.zip
+data/*.parquet
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
